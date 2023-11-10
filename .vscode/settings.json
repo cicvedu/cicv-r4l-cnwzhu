@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "${workspaceFolder}/src_e1000/rust-project.json",
+        "${workspaceFolder}/linux/build/rust-project.json"
+    ]
+}
