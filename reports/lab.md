@@ -63,6 +63,7 @@ src_e1000/Kbuild中的 obj-m += e1000.o
 [![pic2](./Snipaste_2023-11-09_14-17-13.png)](./Snipaste_2023-11-09_14-17-13.png)
 [![pic3](./Snipaste_2023-11-09_14-56-30.png)](./Snipaste_2023-11-09_14-56-30.png)
 [![pic4](./Snipaste_2023-11-09_14-56-49.png)](./Snipaste_2023-11-09_14-56-49.png)
+[![pic4](./Snipaste_2023-11-10_08-23-41.png)](./Snipaste_2023-11-10_08-23-41.png)
 
 ## 作业三
 ### 过程
